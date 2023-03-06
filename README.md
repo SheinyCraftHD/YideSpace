@@ -21,7 +21,7 @@ As you can see, I'm combining all interactions with you guys outside of GitHub i
 
 ## Features
 
-???
+Like mentioned in the section above, no early promises!
 
 
 ## Installation
