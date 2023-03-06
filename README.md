@@ -5,7 +5,6 @@
 
 > PS: You pronounce the *Yide* like *wide*. The **Y** thing is like my trademark. I know, super inventive...
 
-
 ## Authors
 
 - [@ysheiny](https://www.github.com/sheinycrafthd)
