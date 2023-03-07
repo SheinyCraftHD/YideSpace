@@ -36,4 +36,6 @@ There will be downloadable demo versions of the game. As already mentioned in th
 2.~.~ = Beta
 3.~.~ = Full Version
 
+As you can see, my versions are dividet in **Major Versions**, **Minor Versions** and **Sub-Minor Versions**.
+
 To stay up to date, I recommend you joining my [Discord Server](https://discord.gg/rbAfUKyqxr). All versions and news will be there.
