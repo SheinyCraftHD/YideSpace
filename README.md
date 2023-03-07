@@ -7,7 +7,7 @@
 
 ## Authors
 
-- [@ysheiny](https://www.github.com/sheinycrafthd)
+- [@YSheiny](https://www.github.com/sheinycrafthd)
 
 
 ## Documentation
