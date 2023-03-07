@@ -1,7 +1,7 @@
 
 # YideSpace
 
-**YideSpace** is a 3D Space Shooter I'm / We're currently working on. (I'm still doing everything by myself, but I hope to get some fellas working with me.)
+**YideSpace** is a 3D Space Shooter I'm currently working on. (I'm still doing everything by myself, but I hope to get some fellas working with me.)
 
 > PS: You pronounce the *Yide* like *wide*. The *Y* thing is like my trademark. I know, super inventive...
 
