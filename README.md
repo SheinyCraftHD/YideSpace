@@ -25,7 +25,7 @@ The game can be downloaded and installed via the [YGaming-Launcher](https://gith
 
 As mentioned above, as long as **YideSpace** itself is in alpha and the **YGaming Launcher** in beta, there will be no official demo.
 
-##Versions
+## Versions
 
 **Version numbers to distinguish:**
 1.~.~ = Alpha
